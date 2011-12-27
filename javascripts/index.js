@@ -11,7 +11,7 @@ var samples_array = [];
 var div = document.createElement('div');
 
 
-var low, high, diff, mean, previous_s;
+var low, high, diff, mean, previous_ts;
 
 low = 9999;
 high = 0;
