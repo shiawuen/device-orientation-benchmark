@@ -4,9 +4,10 @@ This project is created to test the interval of
 Device Orientation fire for each browser tick.
 
 Here is some of the details for the setup of the test:
-> Ignore the first 20 events triggered
-> Collect 2000 samples of event triggered
-> Calculate the highest, lowest and mean from the samples collected
+
+- Ignore the first 20 events triggered
+- Collect 2000 samples of event triggered
+- Calculate the highest, lowest and mean from the samples collected
 
 ## Results
 
