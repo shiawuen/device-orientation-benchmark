@@ -1,3 +1,4 @@
+(function() {
 
 // Cache for local use
 var isArray = Array.isArray;
@@ -103,3 +104,5 @@ var unbindEvent = function() {
 }
 
 bindEvent();
+  
+})();
