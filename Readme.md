@@ -35,29 +35,29 @@ in details.
 ## Samples collected
 
 ### Chrome
-> low: 86ms
-> high: 527ms
-> mean: 122.567ms
+- low: 86ms
+- high: 527ms
+- mean: 122.567ms
 
 ### Canary
-> low: 92ms
-> high: 517ms
-> mean: 122.0115ms
+- low: 92ms
+- high: 517ms
+- mean: 122.0115ms
 
 ### Firefox 9 Stable
-> low: 46ms
-> high: 108ms
-> mean: 53.052ms
+- low: 46ms
+- high: 108ms
+- mean: 53.052ms
 
 ### Firefox 10 Beta
-> low: 46ms
-> high: 101ms
-> mean: 53.0175ms
+- low: 46ms
+- high: 101ms
+- mean: 53.0175ms
 
 ### Firefox Aurora
-> low: 42ms
-> high: 174ms
-> mean: 53.19ms
+- low: 42ms
+- high: 174ms
+- mean: 53.19ms
 
 ## MIT License
 Copyright (c) 2011 Tan Shiaw Uen &lt;shiawuen@gmail.com&gt;
