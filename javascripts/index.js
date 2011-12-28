@@ -4,8 +4,6 @@
 var isArray = Array.isArray;
 
 
-// ignore the first 20 ticks
-var ignore = 20;
 var total = 2000;
 var count = 0;
 var samples_array = [];
@@ -20,7 +18,7 @@ mean = 0;
 
 
 var orientationchange = function (event){
-  if (--ignore >= 0) {
+  if (!previous_ts) {
     previous_ts = +new Date();
     return;
   }
